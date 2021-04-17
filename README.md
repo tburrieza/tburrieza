@@ -4,7 +4,7 @@ I'm Tomás Burrieza (tburrieza), SR Software Engineer.
 
 For over many years I've been working in huge production companies (most visited platforms on Argentina and Latin America) like Mercado Libre Inc. and Santander Bank.
 
-From that companies and with my own investigation, educational works or even as a freelancer I've been working with many technologies like
+From that companies and from with my own investigation, educational works and even as a freelancer I've been working and experienced with many technologies like
 
 - Java / Kotlin JVM ☕️
 - SQL and No-SQL Databases (MySQL, MariaDB, Cassandra, MongoDB) 🖥
