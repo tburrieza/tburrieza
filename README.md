@@ -1,8 +1,8 @@
 ### Hello there 👋
 
-I'm Tomás Burrieza (tburrieza), SR Software Engineer.
+I'm Tomás Burrieza (tburrieza), Software Engineer & CTO at mentatickets.com (GitHub: @mentaticketsorg)
 
-For over many years I've been working in huge production companies (most visited platforms on Argentina and Latin America) like Mercado Libre Inc. and Santander Bank.
+For over many years I've been working in huge production companies (most visited platforms on Argentina and Latin America) like Mercado Libre Inc. and Santander Bank. Also I've been working for Startups (currently as a CTO in Menta Tickets (Web: mentatickets.com)
 
 From that companies and from with my own investigation, educational works and even as a freelancer I've been working and experienced with many technologies like
 
@@ -25,4 +25,6 @@ I consider myself very enthusiastic about cryptocurrencies and Blockchain. I bel
 
 Would you like to keep in touch?
 Feel free to contact me on [Linkedin](https://www.linkedin.com/in/tomasburrieza/) or [Twitter](https://twitter.com/tomburrieza) 
+
+Are you interested in working at Menta Tickets? Do not hesitate and contact me :D
 
